@@ -1,21 +1,6 @@
-# Dumb-Jokes-Generator
-# Joke Teller Bot 🤖😂
+# Dumb-Jokes-Generator 🤖😂
 
 Welcome to the Joke Teller Bot, where laughter is just a click away! This fun little app fetches random programming jokes from the internet to keep you entertained during those long coding sessions.
-
-## Table of Contents
-- [Demo](#demo)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## Demo
-
-Check out the live version of the Joke Teller Bot [here](https://your-live-demo-link.com).
 
 ## Features
 - Fetches random programming jokes from the [Official Joke API](https://official-joke-api.appspot.com/jokes/programming/random).
@@ -32,11 +17,11 @@ Check out the live version of the Joke Teller Bot [here](https://your-live-demo-
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/joke-teller-bot.git
+    git clone https://github.com/your-username/Dumb-jokes-Generator.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd joke-teller-bot
+    cd Dumb-jokes-Generator
     ```
 3. Install the dependencies:
     ```bash
